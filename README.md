@@ -21,33 +21,48 @@ Incorporated stakeholder feedback to develop an Executive Dashboard, addressing 
 Demonstrated proficient project management skills including project charter development, stakeholder mapping analysis, and utilization of Kanban boards for task assignment, enhancing overall productivity.
 Designed a multi-tiered dashboard facilitating in-depth analysis, proficiently addressing stakeholder inquiries regarding top-performing products, markets, customers, percentage changes, and P&L metrics trends. Improved supply chain forecast accuracy for effective inventory management, significantly enhancing overall business performance.
 Crafted intuitive department-specific dashboards, offering a comprehensive overview of company performance tailored to various departments.
+
 ✔ Finance View ✔ Sales View ✔ Marketing View ✔ Supply Chain View ✔ Executive View
 
 # Key Features in Finance View:
 The profit and loss Statement, explains on varoius P&L Metrics form Gross Sales to Net Profit.BM indicates the bench,ark , which is Either Last year or the Target. which can be selected through Slicer Provided.
+
 KPI’s for Net Sales, Gross Margin %, Net Profit %.
+
 Net sales Performance Trend in comparision with Target/Last Year which can be selected Dynamically.
+
 Top / Bottom Product and Top / Bottom Customers based on Net Sales
 # Key Features in Sales View:
 Unit Economics 1: Net Sales vs Total Post Invoice Discount Amount and Pre-Invoice Discount Amount given by the Company
+
 Unit Economics 2: Total Cost of Goods Sold (COGS) spent by the Company and then finally got the actual Gross Margin
+
 Customer and Product Performance analysis based on Net Sales, Gross Margin and Gross Margin %
+
 Performance Matrix analysis for Market, Customer and Region based on Net Sales and Gross Margin %
+
 Sales Trend Tooltip for every single Customer based on Net Sales and Gross Margin %
 # Key Features in Marketing View:
 Unit Economics: There are some Operational Expenses spent for Product. After subtracting this Expenses got the actual scenario of Net Profit
+
 Performance Matrix analysis for Segment, Category and Product based on both “Net Sales & Net Profit %” and “Net Sales & Gross Margin %” by using a dynamic toggle button
 # Key Features in Supply Chain View:
 KPI’s for Forecast Accuracy, Net Error, ABS Error
+
 Risk Factor analysis
+
 Accuracy vs Net Error Trend analysis
+
 Key Metrics for both Customer and Products based on FA%, FA% LY, Net Error, Net Error%, Risk Factor
 # Key Features in Executive View:
 Report Page for the Top Level Management of the Company who want to check on all key metrics and KPI's.
 
 Market Share Trend analysis for AtliQ and other competitors
+
 Revenue analysis by Division and Channel
+
 Top 5 Products and Top 5 Customers by Revenue
+
 Key Insights by Sub Zone with Revenue Contribution % analysis
 # Key Learnings.
 The most helpful measures for senior management are the Gross Margin and Net Profit (Gross Margin - Operational Costs).
